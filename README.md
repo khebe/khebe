@@ -89,26 +89,18 @@ I am a results-driven **Software Engineer** and **Chief Technology Officer** wit
 
 ---
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0;">
-    <tr style="border: none;">
-      <td align="center" valign="top" style="border: none; padding: 0 10px 10px 0;">
-        <a href="https://github.com/khebe">
-          <img src="https://github-stats-extended.vercel.app/api?username=khebe&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" alt="Khenmedekh's GitHub Stats" height="195" />
-        </a>
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 0 0 10px 0;">
-        <a href="https://github.com/khebe">
-          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khebe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Khenmedekh's Top Languages" height="195" />
-        </a>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" colspan="2" valign="top" style="border: none; padding: 0;">
-        <a href="https://github.com/khebe">
-          <img src="https://streak-stats.demolab.com/?user=khebe&theme=tokyonight&hide_border=true&background=0D1117" alt="Khenmedekh's GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/khebe">
+    <img src="https://github-stats-extended.vercel.app/api?username=khebe&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" alt="Khenmedekh's GitHub Stats" height="195" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/khebe">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khebe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Khenmedekh's Top Languages" height="195" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/khebe">
+    <img src="https://streak-stats.demolab.com/?user=khebe&theme=tokyonight&hide_border=true&background=0D1117" alt="Khenmedekh's GitHub Streak" width="845" />
+  </a>
+</p>
