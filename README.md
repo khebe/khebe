@@ -91,11 +91,11 @@ I am a results-driven **Software Engineer** and **Chief Technology Officer** wit
 
 <p align="center">
   <a href="https://github.com/khebe">
-    <img src="https://github-readme-stats.vercel.app/api?username=khebe&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" alt="Khenmedekh's GitHub Stats" height="190" />
+    <img src="https://github-stats-extended.vercel.app/api?username=khebe&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" alt="Khenmedekh's GitHub Stats" height="190" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/khebe">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khebe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Khenmedekh's Top Languages" height="190" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khebe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Khenmedekh's Top Languages" height="190" />
   </a>
 </p>
 
@@ -103,6 +103,6 @@ I am a results-driven **Software Engineer** and **Chief Technology Officer** wit
 
 <p align="center">
   <a href="https://github.com/khebe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khebe&theme=tokyonight&hide_border=true&background=0D1117" alt="Khenmedekh's GitHub Streak" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=khebe&theme=tokyonight&hide_border=true&background=0D1117" alt="Khenmedekh's GitHub Streak" width="100%" />
   </a>
 </p>
