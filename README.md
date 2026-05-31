@@ -4,17 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khebe" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:khenmedekh.ganbaatar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
 ### About Me
 
 I am a results-driven **Software Engineer** and **Chief Technology Officer** with over 3+ years of professional industry experience, specializing in full-stack web development with a strong focus on advanced frontend architecture and blockchain technologies.
@@ -86,21 +75,3 @@ I am a results-driven **Software Engineer** and **Chief Technology Officer** wit
     <li>Strengthened foundation in system design, data structures, and asynchronous algorithms.</li>
   </ul>
 </details>
-
----
-
-<p align="center">
-  <a href="https://github.com/khebe">
-    <img src="https://github-stats-extended.vercel.app/api?username=khebe&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" alt="Khenmedekh's GitHub Stats" height="195" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/khebe">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khebe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Khenmedekh's Top Languages" height="195" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/khebe">
-    <img src="https://streak-stats.demolab.com/?user=khebe&theme=tokyonight&hide_border=true&background=0D1117" alt="Khenmedekh's GitHub Streak" width="845" />
-  </a>
-</p>
