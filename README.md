@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile_banner.png" alt="Khenmedekh Ganbaatar's GitHub Banner" width="100%" style="border-radius: 10px;" />
-</p>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khenmedekh+Ganbaatar;Chief+Technology+Officer+%40+Portal.mn;Senior+Full-Stack+Engineer;Blockchain+%26+Web3+Enthusiast" alt="Typing SVG" />
@@ -19,48 +15,18 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 I am a results-driven **Software Engineer** and **Chief Technology Officer** with over 3+ years of professional industry experience, specializing in full-stack web development with a strong focus on advanced frontend architecture and blockchain technologies.
 
-- 🔭 **Current Focus:** Leading technical strategy and scaling system integrity as **CTO at Portal.mn**.
-- 🎓 **Education:** Graduated from the **National University of Mongolia** with a Bachelor's Degree in Computer Software Engineering.
-- 💡 **Research:** Conducted an academic thesis on *blockchain-based school certification systems*.
-- 🚀 **Passions:** User-centric product engineering, performance optimization, smart contract development, and technical leadership.
+- **Current Focus:** Leading technical strategy and scaling system integrity as **CTO at Portal.mn**.
+- **Education:** Graduated from the **National University of Mongolia** with a Bachelor's Degree in Computer Software Engineering.
+- **Research:** Conducted an academic thesis on _blockchain-based school certification systems_.
+- **Passions:** User-centric product engineering, performance optimization, smart contract development, and technical leadership.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-<p align="left">
-  <!-- Backend & Cloud -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/AWS_ECS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon ECS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
-</p>
-<p align="left">
-  <!-- Blockchain & Tools -->
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
----
-
-### 💼 Professional Journey
+### Professional Journey
 
 <details open>
   <summary><b>Chief Technology Officer @ Portal.mn</b> <i>(2026-01 - Present)</i></summary>
@@ -123,8 +89,6 @@ I am a results-driven **Software Engineer** and **Chief Technology Officer** wit
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
 <p align="center">
   <a href="https://github.com/khebe">
     <img src="https://github-readme-stats.vercel.app/api?username=khebe&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" alt="Khenmedekh's GitHub Stats" height="190" />
@@ -135,14 +99,10 @@ I am a results-driven **Software Engineer** and **Chief Technology Officer** wit
   </a>
 </p>
 
+---
+
 <p align="center">
   <a href="https://github.com/khebe">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=khebe&theme=tokyonight&hide_border=true&background=0D1117" alt="Khenmedekh's GitHub Streak" width="100%" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Generated with ❤️ using modern profile standards.</sub>
 </p>
